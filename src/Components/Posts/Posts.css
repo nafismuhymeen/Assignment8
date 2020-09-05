@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(31, 28, 28);
+}
+.timeline{
+    text-align: center;
+    color: blanchedalmond;
+}
+.posts{
+    width: 400px;
+    padding: 20px 25px;
+}
+.posts-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
